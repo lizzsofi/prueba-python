@@ -44,3 +44,4 @@ verduras.reverse()                             #reversa la lista. cambiando el o
 print(verduras)
 verduras.sort()                                #ordena en orden alfabetico y solo si son del mismo tipo
 print (verduras)
+#ejemplo git
