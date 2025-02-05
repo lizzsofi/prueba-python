@@ -38,10 +38,15 @@ print(verduras)
 verduras.remove("lechuga")                   # remueve el elemento y si hay repetidos elimina solo el primero 
 print(verduras)    
 """
-
+""""
 verduras = ["espinaca" , "tomate" , " lechuga" , "tomate"]
 verduras.reverse()                             #reversa la lista. cambiando el orden del ultimo al primero
 print(verduras)
 verduras.sort()                                #ordena en orden alfabetico y solo si son del mismo tipo
 print (verduras)
 #ejemplo git
+"""
+
+#ejercicio
+
+
