@@ -3,6 +3,7 @@ numero1 = input("Introduce el primer número: ")
 numero2 = input("Introduce el segundo número: ")
 operacion = input("¿Qué operación quieres realizar? (+, -, *, /): ")
 
+
 # casteo de datos de texto a float
 numero1 = float(numero1)
 numero2 = float(numero2)

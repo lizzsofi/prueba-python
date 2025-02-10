@@ -1,6 +1,6 @@
 #diccionario es un cajon que tiene varios comparimientos, y cada espacio tiene un nombre etiqueta {} cada uno de los elementos son una pareja
 # ejem
-"""
+
 diccionario = {"nombre":"carlos",
                "apellido":"zapata",
                "edad":33,
@@ -45,7 +45,7 @@ notas = {"lizet":5,
 
 calificaciones_aumentadas =dict(map(lambda item: (item[0], round(item[1] * 1.10, 2)), notas.items()))
 print(calificaciones_aumentadas)
-"""
+
 
 #ejercicio2#
 

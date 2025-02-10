@@ -1,6 +1,5 @@
 # crea un programa que pida nombres an un usuario y los almacene en una lista. el proceso se repite hasta que el usuario digite x. al finalizar se deben listar los nombres ingresados.
 
-""""
 usuarios = []
 
 while True:
@@ -12,6 +11,5 @@ while True:
     usuarios.append(nombre)
 print("usuarios registrados:", usuarios)
 
-"""
 
-#otro problema
+
