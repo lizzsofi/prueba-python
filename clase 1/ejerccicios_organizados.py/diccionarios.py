@@ -62,8 +62,8 @@ ciudades ={
 
 temperatura_fahrenheit = dict([
     ("Madrid"), round(temperaturas_celsius["Madrid"] * 9/5 + 32, 2)),
-    ("Londres"), round(temperaturas_celsius["Londres"] * 9/5 + 32, 2)),
-    ("Paris"), round(temperaturas_celsius["Londres"] * 9/5 + 32, 2))
+    ("Londres"), round(temperaturas_celsius["Londres"] * 9/5 + 32, 2),
+    ("Paris"), round(temperaturas_celsius["Londres"] * 9/5 + 32, 2)
 
 ])
  
